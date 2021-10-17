@@ -1,0 +1,10 @@
+{
+  "aserco_host": "",
+  "aserco_token": "",
+  "aserco_bot_user_id":1,
+  "moscow_host": "https://api-invest.tinkoff.ru/openapi",
+  "moscow_token": "",
+  "binance_host": "https://api.binance.com",
+  "binance_key": "",
+  "binance_secret": ""
+}

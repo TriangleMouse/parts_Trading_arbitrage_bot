@@ -1,0 +1,24 @@
+{
+  "bots": [
+    {
+      "user_id" : 1,
+      "starting_volume": 1000.0,
+      "disregarded_offer_vol": 200.0,
+      "to_hedge_vol": 4000.0,
+      "time_upd_balance": 50,
+      "time_upd_orderbook": 15,
+      "time_check_arbitrage": 5,
+      "time_waiting_ticket_event": 50,
+      "time_death_task": 50,
+      "pairs" : [
+        {
+          "moscow_pair": "USDTOM",
+          "binance_pair": "BUSDRUB",
+          "min_spread": 50.0,
+          "binance_disregarded_bid_vol": 1.0,
+          "binance_disregarded_ask_vol": 2.0
+        }
+      ]
+    }
+  ]
+}
